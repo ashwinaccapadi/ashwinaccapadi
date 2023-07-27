@@ -40,8 +40,8 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" title="Google Cloud" **alt="Google Cloud" width="200" height="45"/>
   <img src="https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" title="Sonar Cloud" **alt="Sonar Cloud" width="200" height="45"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" title="Docker" **alt="Docker" width="150" height="45"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" **alt="Git" width="110" height="45"/>
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" title="Kubernetes" **alt="Kubernetes" width="175" height="45"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" **alt="Postman" width="150" height="45"/>
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" title="Udemy" **alt="Udemy" width="150" height="45"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" **alt="Git" width="110" height="45"/>
 </p>
