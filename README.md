@@ -16,7 +16,7 @@
   
 ---
 
-## :hammer_and_wrench: Languages and Tools :
+## 🛠️ Languages and Tools :
 <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" **alt="Java" width="140" height="45"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" width="150" height="45"/>&nbsp;
