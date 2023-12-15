@@ -1,6 +1,5 @@
 # Hi there 👋
  ### My name is Ashwin Accapadi and I am a sophomore at the University of Texas at Austin pursuing a Bachelor of Science in Computer Science and a Bachelor of Science in Mathematics. 
- This summer, I am a Software Engineering Intern at Findhelp (https://github.com/auntbertha) where I am redesigning a crucial section of their website that over 150,000 customers access. I am mainly coding in React and Python.
 
 <div></div>
 
