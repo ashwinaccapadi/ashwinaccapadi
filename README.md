@@ -1,5 +1,5 @@
 # Hi there 👋
- ### My name is Ashwin Accapadi and I am a sophomore at the University of Texas at Austin pursuing a Bachelor of Science in Computer Science and a Bachelor of Science in Mathematics. 
+ ### My name is Ashwin Accapadi and I am a student at the University of Texas at Austin pursuing a Bachelor of Science in Computer Science and a Bachelor of Science in Mathematics. 
 
 <div></div>
 
