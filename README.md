@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on application development and performance optimization
 - 🌱 I’m currently learning more about artificial intelligence and machine learning
-- ⚡️ In my free time, I've been taking courses on Udemy
+- ⚡️ In my free time, I've been taking courses on Udemy and Kaggle
 
 ### 📫 Contact me at:
  <div id="badges">
@@ -33,14 +33,15 @@
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCode" **alt="VSCode" width="150" height="45"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" title="Jira" **alt="Jira" width="110" height="45"/>
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" title="JSON" **alt="JSON" width="110" height="45"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" title="Android" **alt="Android" width="150" height="45"/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" title="Mac OS" **alt="Mac OS" width="140" height="45"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux" **alt="Linux" width="150" height="45"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" title="Google Cloud" **alt="Google Cloud" width="200" height="45"/>
-  <img src="https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" title="Sonar Cloud" **alt="Sonar Cloud" width="200" height="45"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" title="Docker" **alt="Docker" width="150" height="45"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" **alt="Git" width="110" height="45"/>
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" title="Kubernetes" **alt="Kubernetes" width="175" height="45"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" **alt="Postman" width="150" height="45"/>
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" title="Udemy" **alt="Udemy" width="150" height="45"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" title="Swift" **alt="Swift" width="150" height="45"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" **alt="Pandas" width="150" height="45"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-Learn" **alt="Scikit-Learn" width="200" height="45"/>
 </p>
