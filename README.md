@@ -3,8 +3,8 @@
 
 <div></div>
 
-- 🔭 I’m currently working on application development and performance optimization
-- 🌱 I’m currently learning more about artificial intelligence and machine learning
+- 🔭 I’m currently working on LLM inference optimization
+- 🌱 I’m learning more about natural language processing and improving compilation speeds
 - ⚡️ In my free time, I've been taking courses on Udemy and Kaggle
 
 ### 📫 Contact me at:
